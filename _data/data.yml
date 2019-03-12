@@ -128,7 +128,7 @@ skills:
         details: Python 
           
       - name: Machine Learning
-        details: Linear 
+        details: Linear and Non-Linear Regressions, Genetic Algorithms, Naïve Bayes Classifiers, Support Vector Machines, Decision Trees/Random Forest Classifiers, Clustering Algorithms
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
