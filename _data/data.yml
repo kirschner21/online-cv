@@ -121,14 +121,14 @@ skills:
     title: Skills
     
     toolset:
-        - name: Data Analysis
-          details: Time-Series Analysis
+      - name: Data Analysis
+        details: Time-Series Analysis
                   
-        - name: Programming
-          details: Python 
+      - name: Programming
+        details: Python 
           
-         - name: Machine Learning
-           details: Linear 
+      - name: Machine Learning
+        details: Linear 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
