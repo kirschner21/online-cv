@@ -122,13 +122,16 @@ skills:
     
     toolset:
         - name: Data Analysis
-          details: Time-Series Analysis, Principal Component Analysis, Singular Value Decomposition
+          details:|
+            Time-Series Analysis, Principal Component Analysis, Singular Value Decomposition
                   
         - name: Programming
-          details: Python (numpy, pandas, matplotlib, seaborn, scikit-learn), MATLAB, SQL, LabVIEW
+          details:|
+            Python (numpy, pandas, matplotlib, seaborn, scikit-learn), MATLAB, SQL, LabVIEW
           
          - name: Machine Learning
-          details: Linear and Non-Linear Regressions, Genetic Algorithms, Naïve Bayes Classifiers, 
+          details:|
+            Linear and Non-Linear Regressions, Genetic Algorithms, Naïve Bayes Classifiers, Support Vector Machines, Decision Trees/Random Forest Classifiers, Clustering Algorithms
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
