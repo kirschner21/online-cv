@@ -119,9 +119,9 @@ publications:
 
 skills:
     title: Skills
+    
     toolset:
         - name: Data Analysis
-          description: "Time-Series Analysis, Principal Component Analysis, Singular Value Decomposition"
 
 
 footer: >
