@@ -17,10 +17,9 @@
 
       <h3 class="level-title">{{ skill.name }}</h3>
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
+      {% if skill.description %>
+      - <span class="project-tagline">{{ skill.description }}</span>
+      {% endif %}
 
     </div><!--//item-->
     {% endfor %}
@@ -29,3 +28,5 @@
 
 </section><!--//skills-section-->
 {% endif %}
+
+
