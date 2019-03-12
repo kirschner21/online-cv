@@ -7,32 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Matthew Kirschner
+    tagline: PhD Chemist and Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    email: kirschner.21@gmail.com
+    phone: 614 390 6897
+    website: 
+    linkedin: kirschner21
     github: sharu725
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Climbing
@@ -56,9 +47,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Chemistry
+      university: Northwestern University
+      time: 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +60,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: A.B. in Chemistry
+      university: Princeton University
+      time: 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,9 +74,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: PhD Student at Northwestern University
+      time: 2014 - Present
+      company: Evanston, IL
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -98,11 +89,16 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
 
           - Bullet point
-          - Bullet point
+          -	Designed and executed experiments to characterize the effects of heat in nanomaterials
+          - Cleaned 100’s of GBs of noisy time-series data with outlier rejection and SVD filtering which was then analyzed using linear and non-linear regressions
+          - Developed a data pipeline and software suite in MATLAB to process large X-ray datasets (>100GB)  
+          - Organized and ran experiments at national and international government laboratories 
+          - Communicated research results through publication in high impact journals (Science, Nano Letters, ACS Nano, Nature Communications, etc.) and scientific conference presentations
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+    - role: Undergraduate Researcher
+      time: 2013 - 2014
+      company: Princeton, NJ
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,12 +106,12 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Applied a genetic algorithm to shape light to optimize the fluorescence of lanthanide ions
+          - Facilitated a collaboration with a local company to acquire up-converting phosphors
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Leach Summer Scholar
+      time: Summer 2012
+      company: Princeton, NJ
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -123,8 +119,7 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Simulated experiments to confirm fundamental principles in quantum optimum control theory
 
 projects:
     title: Projects
@@ -175,20 +170,20 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Python & Django
-        level: 98%
+        
 
       - name: Javascript & jQuery
-        level: 98%
+        
 
       - name: Angular
-        level: 98%
+        
 
       - name: HTML5 & CSS
-        level: 95%
+        
 
       - name: Ruby on Rails
         level: 85%
