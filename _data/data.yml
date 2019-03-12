@@ -31,8 +31,6 @@ career-profile:
     summary: |
       Expert researcher and data analyst specialized in experimental design, data mining, signal processing, scientific modeling, and software development with extensive experience using MATLAB and Python.
 
-      Second paragraph if required.
-
 education:
     - degree: PhD in Chemistry
       university: Northwestern University
@@ -119,24 +117,10 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills
+    title: Data Analysis
+    details:|
+        Time-Series Analysis, Principal Component Analysis, Singular Value Decomposition
 
-
-      - name: Python & Django
-        
-
-      - name: Javascript & jQuery
-        
-
-      - name: Angular
-        
-
-      - name: HTML5 & CSS
-        
-
-      - name: Ruby on Rails
-
-      - name: Sketch & Photoshop
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
