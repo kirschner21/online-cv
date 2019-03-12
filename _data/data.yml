@@ -9,14 +9,14 @@ sidebar:
     # Profile information
     name: Matthew Kirschner
     tagline: PhD Chemist and Data Scientist
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: linkedinphoto.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kirschner.21@gmail.com
     phone: 614 390 6897
     website: 
-    linkedin: kirschner21
-    github: sharu725
+    linkedin: matthewskirschner
+    github: kirschner21
     gitlab:
     bitbucket:
     twitter: 
@@ -25,24 +25,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
 
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Expert researcher and data analyst specialized in experimental design, data mining, signal processing, scientific modeling, and software development with extensive experience using MATLAB and Python.
 
       Second paragraph if required.
 
@@ -50,45 +37,17 @@ education:
     - degree: PhD in Chemistry
       university: Northwestern University
       time: 2019
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
     - degree: A.B. in Chemistry
       university: Princeton University
       time: 2014
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: PhD Student at Northwestern University
       time: 2014 - Present
       company: Evanston, IL
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
           -	Designed and executed experiments to characterize the effects of heat in nanomaterials
           - Cleaned 100’s of GBs of noisy time-series data with outlier rejection and SVD filtering which was then analyzed using linear and non-linear regressions
           - Developed a data pipeline and software suite in MATLAB to process large X-ray datasets (>100GB)  
@@ -100,11 +59,6 @@ experiences:
       time: 2013 - 2014
       company: Princeton, NJ
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
           - Applied a genetic algorithm to shape light to optimize the fluorescence of lanthanide ions
           - Facilitated a collaboration with a local company to acquire up-converting phosphors
@@ -113,11 +67,6 @@ experiences:
       time: Summer 2012
       company: Princeton, NJ
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
           - Simulated experiments to confirm fundamental principles in quantum optimum control theory
 
